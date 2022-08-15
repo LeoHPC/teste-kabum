@@ -33,6 +33,8 @@ A aplicação deveria conter a finalidade de adicionar um produto ao carrinho no
 
 Além disso, a página mantém o login do usuário e os produtos no carrinho ao recarregar da página, não precisando adicionar um por um novamente na hora da compra!
 
+E para a criação dos produtos, foi utilizado o MockAPI, do qual simula um banco de dados com as informações necessárias de cada produto da página inicial.
+
 ## :newspaper: Layout
 
 Você pode visualizar o layout do projeto através [deste link](https://www.figma.com/file/XQ1KqEcyYtdw0GRcu4MkPf/kabum-home?node-id=62%3A7174). É necessário ter conta no [Figma](http://figma.com/) para acessá-lo.
@@ -45,6 +47,8 @@ Este projeto foi criado com as seguintes tecnologias:
 - React
 - Next
 - Styled Components
+- MockAPI
+- Axios
 - Git
 
 <div style="display: inline_block">
