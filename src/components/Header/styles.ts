@@ -4,10 +4,6 @@ interface MenuButtonProps {
   allDepartments?: boolean;
 }
 
-interface TheresAnUser {
-  user: boolean;
-}
-
 export const Container = styled.header`
   height: 112px;
   background-color: var(--blue-500);
@@ -308,7 +304,7 @@ export const UserInfo = styled.span`
   }
 `
 
-export const IconsWrapper = styled.div<TheresAnUser>`
+export const IconsWrapper = styled.div`
   display: flex;
   align-items: center;
   justify-content: space-between;

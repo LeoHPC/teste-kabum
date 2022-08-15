@@ -147,7 +147,7 @@ export function Header() {
             </LoginWrapper>
           )}
 
-          <IconsWrapper user={user ? true : false}>
+          <IconsWrapper>
             {user && (
               <button className="costumerService">
                 <Image
