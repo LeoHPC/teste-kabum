@@ -60,7 +60,7 @@ Este projeto foi criado com as seguintes tecnologias:
 Pelo seu terminal, execute os seguintes comandos para executar a aplicação localmente:
 ```shell
   # Clone o repositório
-  git clone github.com/LeoHPC/teste-kabum.git
+  git clone https://github.com/LeoHPC/teste-kabum
   
   # Acesse a pasta do projeto
   cd teste-kabum
