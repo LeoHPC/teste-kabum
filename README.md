@@ -31,7 +31,7 @@ A aplicação deveria conter a finalidade de adicionar um produto ao carrinho no
   <img src="https://raw.githubusercontent.com/LeoHPC/teste-kabum/main/src/demo/demo_02.png">
 </div>
 
-Além disso, a página mantém o login do usuário e os produtos no carrinho ao recarregar da página, não precisando adicionar um por um na hora da compra!
+Além disso, a página mantém o login do usuário e os produtos no carrinho ao recarregar da página, não precisando adicionar um por um novamente na hora da compra!
 
 ## :newspaper: Layout
 
